@@ -54,7 +54,7 @@ I run the open-source [Creative Intelligence Portfolio](https://github.com/CapAm
 
 ---
 
-### Other Projects
+### 22Poultry | B2B Marketplace
 
 | Repo | What it does | Stack |
 |------|-------------|-------|
@@ -87,7 +87,7 @@ I run the open-source [Creative Intelligence Portfolio](https://github.com/CapAm
   <a href="https://www.linkedin.com/in/22amin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/aminshaikh22"><img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://www.instagram.com/cap.shaikh/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://capamin22.github.io/](https://ai-product-manager-phi.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://ai-product-manager-phi.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://linktr.ee/AminShaikh22"><img alt="Linktree" src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" /></a>
 </div>
 
