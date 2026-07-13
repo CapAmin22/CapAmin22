@@ -59,8 +59,6 @@ I run the open-source [Creative Intelligence Portfolio](https://github.com/CapAm
 | Repo | What it does | Stack |
 |------|-------------|-------|
 | 🐔 [22Poultry](https://github.com/CapAmin22/22poultry) | Fin-Tech / Marketplace platform | TypeScript |
-| 🎨 [AI-Product-Manager-](https://github.com/CapAmin22/AI-Product-Manager-) | Brutalist portfolio showcasing AI PM skills, projects & product judgment | HTML · Tailwind CSS |
-| 📊 [PythonAnalysisProjects](https://github.com/CapAmin22/PythonAnalysisProjects.github.io) | Amazon Prime data analysis | Jupyter Notebook |
 
 ---
 
@@ -89,7 +87,7 @@ I run the open-source [Creative Intelligence Portfolio](https://github.com/CapAm
   <a href="https://www.linkedin.com/in/22amin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/aminshaikh22"><img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://www.instagram.com/cap.shaikh/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://capamin22.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://capamin22.github.io/](https://ai-product-manager-phi.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://linktr.ee/AminShaikh22"><img alt="Linktree" src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" /></a>
 </div>
 
@@ -97,5 +95,5 @@ I run the open-source [Creative Intelligence Portfolio](https://github.com/CapAm
 
 <p align="center">
   <i>Great products are built on deep empathy, data-driven conviction, and evals that don't lie.</i><br>
-  <b>📍 Nashik, MH, India</b>
+  <b>📍 BLR, KA, India</b>
 </p>
