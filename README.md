@@ -26,22 +26,22 @@ I run the open-source [Creative Intelligence Portfolio](https://github.com/CapAm
 
 - **B2B Intelligence**: Built [TrueSignall](https://github.com/CapAmin22/TrueSignall), a zero-cost prospect intelligence engine, and [LinkedIn Post Leads](https://github.com/CapAmin22/Linkedin_Post_Leads), an agentic lead extraction system.
 
-🚀 Building what's next in AI-powered marketing intelligence and product-led growth. Always open to collaborate on eval-driven AI products.
+Building what's next in AI-powered marketing intelligence and product-led growth. Always open to collaborate on eval-driven AI products.
 
 ---
 
-## 🏗️ Flagship Projects
+## Flagship Projects
 
 ### Creative Intelligence Stack *(6-project system)*
 
 | Module | Repo | What it does | Stack |
 |--------|------|-------------|-------|
-| 🔍 **Classify** | [HookLens](https://github.com/CapAmin22/HOOKLENS) | Paste a marketing hook → typed analysis: archetype, funnel stage, emotional angle, brand-voice score. Wrapped in an eval harness with human-in-the-loop trust thresholds. | Python · Streamlit · LLM-as-Judge |
-| 📚 **Ground** | [BrandGround](https://github.com/CapAmin22/BRANDGROUND-) | RAG over brand guidelines + competitor ads → cited answers with retrieval & faithfulness evals + a written failure-mode teardown. | LangChain · ChromaDB · RAGAS |
-| 🧠 **Orchestrate** | [CreativeOS](https://github.com/CapAmin22/CreativeOS) | End-to-end creative intelligence: ingest → cluster → score → generate variants → eval-gate → human review → feedback loop. LangGraph state machine. | LangGraph · FastAPI · Docker |
-| 🎬 **Perceive** | [CreativeSignal](https://github.com/CapAmin22/CreativeSignal) | Raw ad creative → machine-readable fingerprint: scenes, hook timing, transcript, tone, emotional arc, visual style. | ffmpeg · Whisper · Vision LLM |
-| 📡 **Distribute** | [SignalForge](https://github.com/CapAmin22/SignalForge-) | Map creative fingerprints to ad-network delivery behaviors. Pre-flight reads with hypothesis-flagged confidence. | Python · Embeddings |
-| 📊 **Measure** | [AttributionOS](https://github.com/CapAmin22/AttributionOS-) | Creative-level attribution: link creative fingerprints to performance data, detect fatigue, feed back to the stack. The data flywheel. | Python · Analytics |
+|**Classify** | [HookLens](https://github.com/CapAmin22/HOOKLENS) | Paste a marketing hook → typed analysis: archetype, funnel stage, emotional angle, brand-voice score. Wrapped in an eval harness with human-in-the-loop trust thresholds. | Python · Streamlit · LLM-as-Judge |
+|**Ground** | [BrandGround](https://github.com/CapAmin22/BRANDGROUND-) | RAG over brand guidelines + competitor ads → cited answers with retrieval & faithfulness evals + a written failure-mode teardown. | LangChain · ChromaDB · RAGAS |
+|**Orchestrate** | [CreativeOS](https://github.com/CapAmin22/CreativeOS) | End-to-end creative intelligence: ingest → cluster → score → generate variants → eval-gate → human review → feedback loop. LangGraph state machine. | LangGraph · FastAPI · Docker |
+|**Perceive** | [CreativeSignal](https://github.com/CapAmin22/CreativeSignal) | Raw ad creative → machine-readable fingerprint: scenes, hook timing, transcript, tone, emotional arc, visual style. | ffmpeg · Whisper · Vision LLM |
+|**Distribute** | [SignalForge](https://github.com/CapAmin22/SignalForge-) | Map creative fingerprints to ad-network delivery behaviors. Pre-flight reads with hypothesis-flagged confidence. | Python · Embeddings |
+|**Measure** | [AttributionOS](https://github.com/CapAmin22/AttributionOS-) | Creative-level attribution: link creative fingerprints to performance data, detect fatigue, feed back to the stack. The data flywheel. | Python · Analytics |
 
 ---
 
@@ -49,8 +49,8 @@ I run the open-source [Creative Intelligence Portfolio](https://github.com/CapAm
 
 | Repo | What it does | Stack |
 |------|-------------|-------|
-| 🎯 [TrueSignall](https://github.com/CapAmin22/TrueSignall) | Zero-cost, fully automated B2B prospect intelligence engine. Transforms a raw company name into a verified, pitch-ready contact list. | TypeScript |
-| 🔗 [LinkedIn Post Leads](https://github.com/CapAmin22/Linkedin_Post_Leads) | Agentic LinkedIn post lead extraction system. | TypeScript |
+|[TrueSignall](https://github.com/CapAmin22/TrueSignall) | Zero-cost, fully automated B2B prospect intelligence engine. Transforms a raw company name into a verified, pitch-ready contact list. | TypeScript |
+|[LinkedIn Post Leads](https://github.com/CapAmin22/Linkedin_Post_Leads) | Agentic LinkedIn post lead extraction system. | TypeScript |
 
 ---
 
@@ -58,11 +58,11 @@ I run the open-source [Creative Intelligence Portfolio](https://github.com/CapAm
 
 | Repo | What it does | Stack |
 |------|-------------|-------|
-| 🐔 [22Poultry](https://github.com/CapAmin22/22poultry) | Fin-Tech / Marketplace platform | TypeScript |
+|[22Poultry](https://github.com/CapAmin22/22poultry) | Fin-Tech / Marketplace platform | TypeScript |
 
 ---
 
-## 🛠️ Tech & Tools
+## Tech & Tools
 
 <div>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -81,7 +81,7 @@ I run the open-source [Creative Intelligence Portfolio](https://github.com/CapAm
 
 ---
 
-## 📬 Connect With Me
+## Connect With Me
 
 <div>
   <a href="https://www.linkedin.com/in/22amin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -95,5 +95,5 @@ I run the open-source [Creative Intelligence Portfolio](https://github.com/CapAm
 
 <p align="center">
   <i>Great products are built on deep empathy, data-driven conviction, and evals that don't lie.</i><br>
-  <b>📍 BLR, KA, India</b>
+  <b> 📍BLR, KA, India</b>
 </p>
