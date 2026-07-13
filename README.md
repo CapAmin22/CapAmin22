@@ -1,4 +1,4 @@
-# Hi, I'm Amin 👋
+# Hi, I'm Amin.
 
 I build AI-powered products and ship evaluation-driven systems that marketing and sales teams can actually use.
 
